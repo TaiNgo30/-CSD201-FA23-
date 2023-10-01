@@ -1,0 +1,168 @@
+01,01,Cống Vị
+02,01,Điện Biên
+03,01,Đội Cấn
+04,01,Giảng Võ
+05,01,Kim Mã
+06,01,Liễu Giai
+07,01,Ngọc Hà
+08,01,Ngọc Khánh
+09,01,Nguyễn Trung Trực
+10,01,Phúc Xá
+11,01,Quán Thánh
+12,01,Thành Công
+13,01,Trúc Bạch
+14,01,Vĩnh Phúc
+15,02,Chương Dương Độ
+16,02,Cửa Đông
+17,02,Cửa Nam
+18,02,Đồng Xuân
+19,02,Hàng Bạc
+20,02,Hàng Bài
+21,02,Hàng Bồ
+22,02,Hàng Bông
+23,02,Hàng Buồm
+24,02,Hàng Đào
+25,02,Hàng Gai
+26,02,Hàng Mã
+27,02,Hàng Trống
+28,02,Lý Thái Tổ
+29,02,Phan Chu Trinh
+30,02,Phúc Tân
+31,02,Trần Hưng Đạo
+32,02,Tràng Tiền
+33,03,Bưởi
+34,03,Thụy Khuê
+35,03,Yên Phụ
+36,03,Tứ Liên
+37,03,Nhật Tân
+38,03,Quảng An
+39,03,Xuân La
+40,03,Phú Thượng
+41,04,Bồ Đề
+42,04,Gia Thụy
+43,04,Cự Khối
+44,04,Đức Giang
+45,04,Giang Biên
+46,04,Long Biên
+47,04,Ngọc Lâm
+48,04,Ngọc Thụy
+49,04,Phúc Đồng
+50,04,Phúc Lợi
+51,04,Sài Đồng
+52,04,Thạch Bàn
+53,04,Thượng Thanh
+54,04,Việt Hưng
+55,05,Nghĩa Đô
+56,05,Quan Hoa
+57,05,Dịch Vọng
+58,05,Dịch Vọng Hậu
+59,05,Trung Hòa
+60,05,Nghĩa Tân
+61,05,Mai Dịch
+62,05,Yên Hòa
+63,06,Văn Miếu
+64,06,Quốc Tử Giám
+65,06,Hàng Bột
+66,06,Nam Đồng
+67,06,Trung Liệt
+68,06,Khâm Thiên
+69,06,Phương Liên
+70,06,Phương Mai
+71,06,Khương Thượng
+72,06,Ngã Tư Sở
+73,06,Láng Thượng
+74,06,Cát Linh
+75,06,Văn Chương
+76,06,Ô Chợ Dừa
+77,06,Quang Trung
+78,06,Thổ Quan
+79,06,Trung Phụng
+80,06,Kim Liên
+81,06,Trung Tự
+82,06,Thịnh Quang
+83,06,Láng Hạ
+84,07,Nguyễn Du
+85,07,Bùi Thị Xuân
+86,07,Ngô Thì Nhậm
+87,07,Đồng Nhân
+88,07,Bạch Đằng
+89,07,Thanh Nhàn
+90,07,Bách Khoa
+91,07,Vĩnh Tuy
+92,07,Trương Định
+93,07,Lê Đại Hành
+94,07,Phố Huế
+95,07,Phạm Đình Hổ
+96,07,Đống Mác
+97,07,Thanh Lương
+98,07,Cầu Dền
+99,07,Bạch Mai
+100,07,Quỳnh Mai
+101,07,Minh Khai
+102,07,Đồng Tâm
+103,07,Quỳnh Lôi
+104,08,Định Công
+105,08,Đại Kim
+106,08,Giáp Bát
+107,08,Hoàng Liệt
+108,08,Hoàng Văn Thụ
+109,08,Lĩnh Nam
+110,08,Mai Động
+111,08,Tân Mai
+112,08,Thanh Trì
+113,08,Thịnh Liệt
+114,08,Trần Phú
+115,08,Tương Mai
+116,08,Vĩnh Hưng
+117,08,Yên Sở
+118,09,Hạ Đình
+119,09,Kim Giang
+120,09,Khương Đình
+121,09,Khương Mai
+122,09,Khương Trung
+123,09,Nhân Chính
+124,09,Phương Liệt
+125,09,Thanh Xuân Bắc
+126,09,Thanh Xuân Nam
+127,09,Thanh Xuân Trung
+128,09,Thượng Đình
+129,10,Quang Trung
+130,10,Nguyễn Trãi
+131,10,Hà Cầu
+132,10,Vạn Phúc
+133,10,Phúc La
+134,10,Yết Kiêu
+135,10,Mộ Lao
+136,10,Văn Quán
+137,10,La Khê
+138,10,Phú La
+139,10,Kiến Hưng
+140,10,Yên Nghĩa
+141,10,Phú Lương
+142,10,Phú Lãm
+143,10,Dương Nội
+144,10,Biên Giang
+145,10,Đồng Mai
+146,11,Cổ Nhuế 1
+147,11,Cổ Nhuế 2
+148,11,Đông Ngạc
+149,11,Đức Thắng
+150,11,Liên Mạc
+151,11,Minh Khai
+152,11,Phú Diễn
+153,11,Phúc Diễn
+154,11,Tây Tựu
+155,11,Thượng Cát
+156,11,Thụy Phương
+157,11,Xuân Đỉnh
+158,11,Xuân Tảo
+159,12,Cầu Diễn
+160,12,Đại Mỗ
+161,12,Mễ Trì
+162,12,Mỹ Đình 1
+163,12,Mỹ Đình 2
+164,12,Phú Đô
+165,12,Phương Canh
+166,12,Tây Mỗ
+167,12,Trung Văn
+168,12,Xuân Phương

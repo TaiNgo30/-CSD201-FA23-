@@ -1,0 +1,12 @@
+01,01,Quận Ba Đình
+02,01,Quận Hoàn Kiếm
+03,01,Quận Tây Hồ
+04,01,Quận Long Biên
+05,01,Quận Cầu Giấy
+06,01,Quận Đống Đa
+07,01,Quận Hai Bà Trưng
+08,01,Quận Hoàng Mai
+09,01,Quận Thanh Xuân
+10,01,Quận Hà Đông
+11,01,Quận Bắc Từ Liêm
+12,01,Quận Nam Từ Liêm
